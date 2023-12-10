@@ -1,6 +1,6 @@
-# Hi👋 I'm Sarang! [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarang-pitale/)
+# Hi👋 I'm Sarang! 
 
-#### Software Engineer || Young Scientist ||Certified Professional & Trainer
+#### Software Engineer || Young Scientist ||Certified Professional & Trainer[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarang-pitale/)
 
 
  I find joy in programming, indulging in books, expressing through writing, and exploring new places through travel. A forward-thinking software developer driven by a passion for pioneering solutions, constantly pushing boundaries in the pursuit of innovation.
