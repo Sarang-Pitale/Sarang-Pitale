@@ -17,8 +17,6 @@ Skills: Java / Spring Boot /Apache Camel
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarang-Pitale)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/Sarang-Pitale)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Sarang-Pitale)  
 
 # 💻 Tech Stack:
