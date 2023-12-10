@@ -1,7 +1,7 @@
-### Hi👋 I'm Sarang! 
-### Hi there 👋, my name is Arturs
+## Hi👋 I'm Sarang! 
+
 #### Software Engineer || Young Scientist ||Certified Professional & Trainer
-![Software Engineer || Young Scientist ||Certified Professional & Trainer]
+
 
  I find joy in programming, indulging in books, expressing through writing, and exploring new places through travel. A forward-thinking software developer driven by a passion for pioneering solutions, constantly pushing boundaries in the pursuit of innovation.
 
