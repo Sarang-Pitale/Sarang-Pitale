@@ -1,17 +1,23 @@
 ### Hi👋 I'm Sarang! 
-I am a Software Engineer.  I find joy in programming, indulging in books, expressing through writing, and exploring new places through travel.
-A forward-thinking software developer driven by a passion for pioneering solutions, constantly pushing boundaries in the pursuit of innovation.
-<!--
-**Sarang-Pitale/Sarang-Pitale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is Arturs
+#### Software Engineer || Young Scientist ||Certified Professional & Trainer
+![Software Engineer || Young Scientist ||Certified Professional & Trainer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Here are some ideas to get you started:
+ I find joy in programming, indulging in books, expressing through writing, and exploring new places through travel. A forward-thinking software developer driven by a passion for pioneering solutions, constantly pushing boundaries in the pursuit of innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: Java / Spring Boot /Apache Camel
+
+- 🔭 I’m currently working on Spring Boot and Apache Camel 
+- 🌱 I’m currently learning React 
+- 💬 Ask me about Java, Apache Camel 
+- 📫 How to reach me: er.saarang@gmail.com  
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sarang-Pitale)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sarang-pitale/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/dsarangpitale)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/3010246)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/SarangPitale3011)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarang-Pitale)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub metrics](https://metrics.lecoq.io/Sarang-Pitale)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Sarang-Pitale)  
+
