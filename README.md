@@ -14,11 +14,15 @@ Skills: Java / Spring Boot /Apache Camel
 - 📄 Know about my experiences on:  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarang-pitale/) 
 
 
+###
 
+<h3 align="left">🛠 My Stats</h3>
+
+###
  <h3 align="center">
-
  ![GitHub streak stats](https://streak-stats.demolab.com/?user=Sarang-Pitale) 
 </h3>
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
