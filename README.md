@@ -1,4 +1,4 @@
-# Hi👋 I'm Sarang! 
+# Hi👋 I'm Sarang! [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarang-pitale/)
 
 #### Software Engineer || Young Scientist ||Certified Professional & Trainer
 
@@ -13,7 +13,7 @@ Skills: Java / Spring Boot /Apache Camel
 - 📫 How to reach me: er.saarang@gmail.com  
 
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarang-pitale/)
+
 
 ##
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Sarang-Pitale)  
