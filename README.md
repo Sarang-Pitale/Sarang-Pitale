@@ -1,4 +1,4 @@
-## Hi👋 I'm Sarang! 
+# Hi👋 I'm Sarang! 
 
 #### Software Engineer || Young Scientist ||Certified Professional & Trainer
 
