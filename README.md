@@ -15,12 +15,12 @@ Skills: Java / Spring Boot /Apache Camel
 
 
 
-
+<h3 align="center">
 ##
-<h3 align="center"> ![GitHub streak stats](https://streak-stats.demolab.com/?user=Sarang-Pitale)  </h3>
+ ![GitHub streak stats](https://streak-stats.demolab.com/?user=Sarang-Pitale) 
 
 ###
-
+ </h3>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
