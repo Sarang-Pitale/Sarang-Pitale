@@ -1,4 +1,4 @@
-![Header](./Sarang-Pitale/sarang-pitale.png)
+![Header](./sarang-pitale.png)
 
 # Hi👋 I'm Sarang! 
 
