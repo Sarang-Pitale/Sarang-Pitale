@@ -1,3 +1,6 @@
+
+![Header](./sarang-pitale.jpg)
+
 # Hi👋 I'm Sarang! 
 
 #### Software Engineer || Young Scientist || Certified Professional & Trainer
