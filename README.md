@@ -1,6 +1,4 @@
 
-
-# Hi👋 I'm Sarang! 
 ![Header](./sarang-pitale.png)
 
 
